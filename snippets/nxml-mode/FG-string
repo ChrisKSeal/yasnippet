@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: FG-string
+# key: fstr
+# --
+<string name="string_${1:$(downcase yas-text)}">$1</string>
+<string name="heading_${1:$(downcase yas-text)}">${1:$(upcase yas-text)}</string>

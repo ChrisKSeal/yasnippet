@@ -1,0 +1,43 @@
+# -*- mode: snippet -*-
+# name: obsidisan-gods
+# key: ogd
+# --
+---
+banner: zzz_assets/Banners/$1
+banner_x: 0.5
+banner_y: 0.5
+tags: Gods
+culture: $2
+domains: $3
+order: $4
+---
+
+# <center>$5</center>
+
+
+## Profile
+
+
+**Spheres of Influence:**
+
+**Domain:**
+
+**Culture (Temple Locations):**
+
+**Membership:**
+
+**Church Structure:**
+
+**Benefits of Membership:**
+
+**Restrictions:**
+
+**Symbol:**
+
+**Dress:**
+
+**Philosophy/Purpose:**
+
+## Major Holidays
+
+###

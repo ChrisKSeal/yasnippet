@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: FG-windowclass
+# key: fwc
+# --
+<windowclass name="$1">
+  <sheetdata>
+    $2
+  </sheetdata>
+</windowclass>
