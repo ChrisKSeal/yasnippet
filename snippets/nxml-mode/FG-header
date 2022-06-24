@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # name: XML header for FG
-# key: xhd
+# key: fhd
 # --
 <?xml version="1.0" encoding="iso-8859-1"?>
 <root>
